@@ -1,0 +1,15 @@
+{
+  "name": "weatherapiproject",
+  "version": "1.0.0",
+  "description": "A simple weather app with an API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lars Birk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
